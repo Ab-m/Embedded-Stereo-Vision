@@ -1,0 +1,9 @@
+the_ROM_image:
+{
+ [fsbl_config] a53_x64
+ [bootloader]<TrenzPlatform/boot/fsbl.elf>
+ [pmufw_image]<TrenzPlatform/boot/pmufw.elf>
+ [destination_device=pl] <bitstream>
+ [destination_cpu=a53-0, exception_level=el-3, trustzone] <TrenzPlatform/boot/bl31.elf>
+ [destination_cpu=a53-0, exception_level=el-2] <TrenzPlatform/boot/u-boot.elf>
+}

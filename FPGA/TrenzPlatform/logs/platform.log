@@ -1,0 +1,203 @@
+TRACE::2019-04-12.17:10:56::SCWPlatform:: First log statement 
+TRACE::2019-04-12.17:10:56::SCWPlatform:: Platformds dir is /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa
+TRACE::2019-04-12.17:10:56::SCWPlatform:: Platform Path /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
+TRACE::2019-04-12.17:10:56::SCWPlatform:: Unique name trenz.biz:SK0808_zusys_SDSoC:SK0808_zusys_SDSoC:1.0
+TRACE::2019-04-12.17:11:02::SCWPlatform::Got new hwdb SK0808_zusys_SDSoC_wrapper_2
+TRACE::2019-04-12.17:11:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-04-12.17:11:02::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	""
+}
+TRACE::2019-04-12.17:11:02::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	""
+}
+TRACE::2019-04-12.17:11:02::SCWPlatform:: Platformds dir is /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa
+TRACE::2019-04-12.17:11:02::SCWPlatform:: Platform Path /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
+TRACE::2019-04-12.17:11:02::SCWPlatform:: Unique name trenz.biz:SK0808_zusys_SDSoC:SK0808_zusys_SDSoC:1.0
+TRACE::2019-04-12.17:11:02::SCWPlatform::Removing the HwDB with name /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
+TRACE::2019-04-12.17:11:02::SCWPlatform:: First log statement 
+TRACE::2019-04-12.17:11:02::SCWPlatform:: Platformds dir is /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa
+TRACE::2019-04-12.17:11:02::SCWPlatform:: Platform Path /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
+TRACE::2019-04-12.17:11:02::SCWPlatform:: Unique name trenz.biz:SK0808_zusys_SDSoC:SK0808_zusys_SDSoC:1.0
+TRACE::2019-04-12.17:11:07::SCWPlatform::Got new hwdb SK0808_zusys_SDSoC_wrapper_3
+TRACE::2019-04-12.17:11:07::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-04-12.17:11:07::SCWReader::Active system found as  
+TRACE::2019-04-12.17:11:07::SCWReader::No system configurations  present  
+TRACE::2019-04-12.17:11:15::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples"
+}
+TRACE::2019-04-12.17:11:15::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples"
+}
+TRACE::2019-04-12.17:11:34::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples",
+	"platActiveSys":	"TrenzPlatform",
+	"systems":	[{
+			"systemName":	"TrenzPlatform",
+			"systemDesc":	"",
+			"systemDispName":	"TrenzPlatform",
+			"sysBootDir":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot"
+		}]
+}
+TRACE::2019-04-12.17:11:34::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples",
+	"platActiveSys":	"TrenzPlatform",
+	"systems":	[{
+			"systemName":	"TrenzPlatform",
+			"systemDesc":	"",
+			"systemDispName":	"TrenzPlatform",
+			"sysBootDir":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot",
+			"bootBifFile":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot.bif"
+		}]
+}
+TRACE::2019-04-12.17:11:49::SCWPlatform:: Platformds dir is /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa
+TRACE::2019-04-12.17:11:49::SCWPlatform:: Platform Path /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
+TRACE::2019-04-12.17:11:49::SCWPlatform:: Unique name trenz.biz:SK0808_zusys_SDSoC:SK0808_zusys_SDSoC:1.0
+TRACE::2019-04-12.17:11:49::SCWPlatform::Opened existing hwdb SK0808_zusys_SDSoC_wrapper_3
+TRACE::2019-04-12.17:11:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2019-04-12.17:11:49::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples",
+	"platActiveSys":	"TrenzPlatform",
+	"systems":	[{
+			"systemName":	"TrenzPlatform",
+			"systemDesc":	"",
+			"systemDispName":	"TrenzPlatform",
+			"sysBootDir":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot",
+			"bootBifFile":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot.bif",
+			"sysActiveDom":	"TrenzPlatform",
+			"domains":	[{
+					"domainName":	"TrenzPlatform",
+					"domainDispName":	"TrenzPlatform",
+					"domainDesc":	"",
+					"processors":	"psu_cortexa53",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"imageLocation":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/image",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-04-12.17:11:49::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples",
+	"platActiveSys":	"TrenzPlatform",
+	"systems":	[{
+			"systemName":	"TrenzPlatform",
+			"systemDesc":	"",
+			"systemDispName":	"TrenzPlatform",
+			"sysBootDir":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot",
+			"bootBifFile":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot.bif",
+			"sysActiveDom":	"TrenzPlatform",
+			"domains":	[{
+					"domainName":	"TrenzPlatform",
+					"domainDispName":	"TrenzPlatform",
+					"domainDesc":	"",
+					"processors":	"psu_cortexa53",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"imageLocation":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/image",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2019-04-12.17:11:56::SCWPlatform::Started generating the artifacts platform TrenzPlatform
+TRACE::2019-04-12.17:11:56::SCWPlatform::Sanity checking of platform is completed
+LOG::2019-04-12.17:11:56::SCWPlatform::Started generating the artifacts for system configuration TrenzPlatform
+TRACE::2019-04-12.17:11:56::SCWSystem::Copying the bif file from  /home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot.bif To /home/oseya/Sintef/SDx/TrenzPlatform/export/TrenzPlatform/sw/TrenzPlatform/boot/
+LOG::2019-04-12.17:11:56::SCWSystem::Started Processing the domain TrenzPlatform
+TRACE::2019-04-12.17:11:56::SCWDomain::Generating domain artifcats
+LOG::2019-04-12.17:11:56::SCWSystem::Completed Processing the domain TrenzPlatform
+LOG::2019-04-12.17:11:56::SCWPlatform::Completed generating the artifacts for system configuration TrenzPlatform
+TRACE::2019-04-12.17:11:56::SCWPlatform::Started preparing the platform 
+TRACE::2019-04-12.17:11:56::SCWPlatform::Started writing the spfm file 
+TRACE::2019-04-12.17:11:56::SCWPlatform::Started writing the xpfm file 
+TRACE::2019-04-12.17:11:56::SCWWriter::formatted JSON is {
+	"platformName":	"TrenzPlatform",
+	"platformDesc":	"TrenzPlatform",
+	"platHandOff":	"<platformDir>.dsa",
+	"deviceType":	"zynqMP",
+	"platPreBuiltFlag":	true,
+	"platformSamplesDir":	"/home/oseya/Sintef/SDx/xfopencv/examples",
+	"platActiveSys":	"TrenzPlatform",
+	"systems":	[{
+			"systemName":	"TrenzPlatform",
+			"systemDesc":	"",
+			"systemDispName":	"TrenzPlatform",
+			"sysBootDir":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot",
+			"bootBifFile":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/boot.bif",
+			"sysActiveDom":	"TrenzPlatform",
+			"domains":	[{
+					"domainName":	"TrenzPlatform",
+					"domainDispName":	"TrenzPlatform",
+					"domainDesc":	"",
+					"processors":	"psu_cortexa53",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"imageLocation":	"/home/oseya/Sintef/SDx/tzPetalinux/images/linux/image",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2019-04-12.17:31:41::SCWPlatform:: Platformds dir is /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa
+TRACE::2019-04-12.17:31:41::SCWPlatform:: Platform Path /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
+TRACE::2019-04-12.17:31:41::SCWPlatform:: Unique name trenz.biz:SK0808_zusys_SDSoC:SK0808_zusys_SDSoC:1.0
+TRACE::2019-04-12.17:31:41::SCWPlatform::Removing the HwDB with name /home/oseya/Sintef/SDx/TrenzPlatform/_platform/dsa/TrenzPlatform.dsa
